@@ -1,0 +1,22 @@
+{
+  "name": "tdd-with-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvergama/TDD-with-Node.git"
+  },
+  "author": "Silver Gama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvergama/TDD-with-Node/issues"
+  },
+  "homepage": "https://github.com/silvergama/TDD-with-Node#readme",
+  "dependencies": {
+    "tape": "^4.10.2"
+  }
+}
