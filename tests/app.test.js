@@ -11,7 +11,7 @@ test('GET /aplicarDesconto/10/5', (t) => {
     .end( (err, res) => {
         
         t.error(err, 'Sem erros')
-        t.assert(res.body.valorDescontado === 5, 'Desconto Correto')
+        t.assert(res.body.valorDescontado === 5, 'Desconto Correto test ok')
         t.end()
     })
 })
