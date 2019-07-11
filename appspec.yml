@@ -1,5 +1,9 @@
 version: 0.0
 os: windows
 files:
+<<<<<<< HEAD
   - source: \index.js
+=======
+  - source: \
+>>>>>>> 60475b31347bbb1c00bd463a6483f0ac1532ab62
     destination: C:\www\
