@@ -2,5 +2,4 @@ version: 0.0
 os: windows
 files:
   - source: \index.js
-  - source: \
     destination: C:\inetpub\wwwroot
